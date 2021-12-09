@@ -1,4 +1,4 @@
-<div align="center"><em>Projects and exercises in CSS e Python</em></div>
+<div align="center"><em>Projects and exercises in CSS / Python</em></div>
 <div align="center"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </div>
 <img align="right" src="https://user-images.githubusercontent.com/85580881/145274141-f6fc98e8-d10d-4cdb-bb57-6c5692ec6675.png" width="150">
  <!-- Icons by Flaticon https://www.flaticon.com/br/
